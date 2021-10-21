@@ -8,7 +8,71 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "Walls",
+        "children": [
+          {
+            "name": "Crafting",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Floor",
+        "children": [
+          {
+            "name": "Crafting",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPSPDU",
+        "children": [
+          {
+            "name": "Crafting",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Roof",
+        "children": [
+          {
+            "name": "Crafting",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Doors",
+        "children": [
+          {
+            "name": "Crafting",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Cage",
+        "children": [
+          {
+            "name": "Crafting",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "VentsCRAC",
+        "children": [
+          {
+            "name": "Crafting",
+            "children": []
+          }
+        ]
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "dcdecorations",
