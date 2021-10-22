@@ -10,7 +10,7 @@
     "textureBack": "dc_wall_white",
     "renderType": 10,
     "customModelName": "Normal",
-    "rotationMode": 1,
+    "rotationMode": 2,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",

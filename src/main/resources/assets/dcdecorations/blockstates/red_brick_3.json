@@ -1,7 +1,27 @@
 {
   "variants": {
-    "": {
+    "facing=north": {
       "model": "dcdecorations:block/red_brick_3"
+    },
+    "facing=east": {
+      "model": "dcdecorations:block/red_brick_3",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dcdecorations:block/red_brick_3",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dcdecorations:block/red_brick_3",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "dcdecorations:block/red_brick_3",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "dcdecorations:block/red_brick_3",
+      "x": 90
     }
   }
 }

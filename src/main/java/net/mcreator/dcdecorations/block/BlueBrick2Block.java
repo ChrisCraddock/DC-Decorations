@@ -18,7 +18,7 @@ import net.minecraft.item.BlockItemUseContext;
 import net.minecraft.item.BlockItem;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.SoundType;
-import net.minecraft.block.HorizontalBlock;
+import net.minecraft.block.DirectionalBlock;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
@@ -41,7 +41,7 @@ public class BlueBrick2Block extends DcdecorationsModElements.ModElement {
 		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(ItemGroup.DECORATIONS)).setRegistryName(block.getRegistryName()));
 	}
 	public static class CustomBlock extends Block {
-		public static final DirectionProperty FACING = HorizontalBlock.HORIZONTAL_FACING;
+		public static final DirectionProperty FACING = DirectionalBlock.FACING;
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
 			this.setDefaultState(this.stateContainer.getBaseState().with(FACING, Direction.NORTH));
@@ -74,7 +74,7 @@ public class BlueBrick2Block extends DcdecorationsModElements.ModElement {
 		@Override
 		public BlockState getStateForPlacement(BlockItemUseContext context) {
 			;
-			return this.getDefaultState().with(FACING, context.getPlacementHorizontalFacing().getOpposite());
+			return this.getDefaultState().with(FACING, context.getNearestLookingDirection().getOpposite());
 		}
 
 		@Override
