@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dcdecorations:block/crac_screen"
+    },
+    "facing=east": {
+      "model": "dcdecorations:block/crac_screen",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dcdecorations:block/crac_screen",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dcdecorations:block/crac_screen",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "dcdecorations:block/crac_screen",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "dcdecorations:block/crac_screen",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "dcdecorations",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "dcdecorations:ups_panels"
+    }
+  ],
+  "result": {
+    "item": "dcdecorations:pdu_screen",
+    "count": 1
+  }
+}

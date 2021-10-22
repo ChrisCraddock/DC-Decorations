@@ -1,0 +1,16 @@
+{
+  "group": "dcdecorations",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:snow_block"
+    },
+    {
+      "item": "dcdecorations:ups_panels"
+    }
+  ],
+  "result": {
+    "item": "dcdecorations:crac_screen",
+    "count": 1
+  }
+}

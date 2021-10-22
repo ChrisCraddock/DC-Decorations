@@ -3,7 +3,7 @@
   "textures": {
     "down": "dcdecorations:blocks/upspanels",
     "up": "dcdecorations:blocks/upsvent",
-    "north": "dcdecorations:blocks/upsvent",
+    "north": "dcdecorations:blocks/pduscreen",
     "east": "dcdecorations:blocks/upspanels",
     "south": "dcdecorations:blocks/upspanels",
     "west": "dcdecorations:blocks/upspanels",

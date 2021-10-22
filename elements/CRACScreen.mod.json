@@ -3,14 +3,14 @@
   "_type": "block",
   "definition": {
     "texture": "upspanels",
-    "textureTop": "upsvent",
+    "textureTop": "upspanels",
     "textureLeft": "upspanels",
-    "textureFront": "upsvent",
+    "textureFront": "cracscreen",
     "textureRight": "upspanels",
     "textureBack": "upspanels",
     "renderType": 10,
     "customModelName": "Normal",
-    "rotationMode": 1,
+    "rotationMode": 2,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "UPS Vents",
+    "name": "CRAC Screen",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,

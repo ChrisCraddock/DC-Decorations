@@ -18,6 +18,7 @@
   "block.dcdecorations.light_black_brick_2": "Dark Light Black Brick Stripe",
   "block.dcdecorations.blue_brick_2": "Dark Blue Brick Stripe",
   "block.dcdecorations.basic_brick_0": "Basic Brick All Sides",
+  "block.dcdecorations.crac_screen": "CRAC Screen",
   "block.dcdecorations.yellow_brick_2": "Dark Yellow Brick Stripe",
   "block.dcdecorations.cyan_brick_3": "Dark Cyan Brick No Stripe",
   "block.dcdecorations.yellow_brick_3": "Dark Yellow Brick No Stripe",
@@ -68,6 +69,7 @@
   "block.dcdecorations.red_brick_3": "Dark Red Brick No Stripe",
   "block.dcdecorations.light_gray_brick_0": "Light Gray Brick Stripe",
   "block.dcdecorations.light_blue_brick_3": "Dark Light Blue Brick No Stripe",
+  "block.dcdecorations.pdu_screen": "PDU Screen",
   "block.dcdecorations.light_blue_brick_0": "Light Blue Brick Stripe",
   "block.dcdecorations.light_blue_brick_2": "Dark Light Blue Brick Stripe",
   "block.dcdecorations.light_blue_brick_1": "Light Blue Brick No Stripe"

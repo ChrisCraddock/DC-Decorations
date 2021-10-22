@@ -2,8 +2,8 @@
   "parent": "block/cube",
   "textures": {
     "down": "dcdecorations:blocks/upspanels",
-    "up": "dcdecorations:blocks/upsvent",
-    "north": "dcdecorations:blocks/upsvent",
+    "up": "dcdecorations:blocks/upspanels",
+    "north": "dcdecorations:blocks/cracscreen",
     "east": "dcdecorations:blocks/upspanels",
     "south": "dcdecorations:blocks/upspanels",
     "west": "dcdecorations:blocks/upspanels",
