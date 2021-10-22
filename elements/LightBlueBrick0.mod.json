@@ -4,10 +4,10 @@
   "definition": {
     "texture": "dc_ceiling",
     "textureTop": "dcroof",
-    "textureLeft": "bricklightblack",
-    "textureFront": "bricklightblack",
-    "textureRight": "bricklightblack",
-    "textureBack": "wblackw",
+    "textureLeft": "bricklightblue",
+    "textureFront": "bricklightblue",
+    "textureRight": "bricklightblue",
+    "textureBack": "wlightbluew",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 2,
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Black Brick 0Stripe",
+    "name": "Light Blue Brick 0Stripe",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,

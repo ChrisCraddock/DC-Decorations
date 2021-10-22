@@ -1,0 +1,19 @@
+{
+  "group": "white_walls_and_stripes",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:green_dye"
+    },
+    {
+      "item": "dcdecorations:white_brick_0"
+    },
+    {
+      "item": "minecraft:white_dye"
+    }
+  ],
+  "result": {
+    "item": "dcdecorations:light_green_brick_0",
+    "count": 8
+  }
+}

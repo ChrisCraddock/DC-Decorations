@@ -1,0 +1,16 @@
+{
+  "group": "black_walls_and_stripes",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:pink_dye"
+    },
+    {
+      "item": "dcdecorations:basic_brick_0"
+    }
+  ],
+  "result": {
+    "item": "dcdecorations:pink_brick_2",
+    "count": 8
+  }
+}

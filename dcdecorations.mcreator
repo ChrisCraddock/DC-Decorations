@@ -690,6 +690,1036 @@
       "ids": {},
       "registry_name": "black_brick_3",
       "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "DCBrickBrownBasic",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_brick_brown_basic",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DCWhiteBasic",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_white_basic",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "White2Blue",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_2_blue",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "Blue2Blue",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_2_blue",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "Blue2White",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_2_white",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "White2Red",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_2_red",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "Red2Red",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_2_red",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "Red2White",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_2_white",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "White2Green",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_2_green",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "Green2Green",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_2_green",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "Green2White",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_2_white",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "White2Purple",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_2_purple",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "Purple2Purple",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_2_purple",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "Purple2White",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_2_white",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "White2Gray",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_2_gray",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "Gray2Gray",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_2_gray",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "Gray2White",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_2_white",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "White2Yellow",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_2_yellow",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "Yellow2Yellow",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_2_yellow",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "Yellow2White",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_2_white",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "White2Orange",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_2_orange",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "Orange2Orange",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_2_orange",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "Orange2White",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_2_white",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "White2Black",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_2_black",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "Black2Black",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_2_black",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "Black2White",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_2_white",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "White2LiteBlack",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_2_lite_black",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "LiteBlack2LiteBlack",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lite_black_2_lite_black",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "LiteBlack2White",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lite_black_2_white",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "White2Brown",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_2_brown",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "Brown2Brown",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_2_brown",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "Brown2White",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_2_white",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "White2LiteGray",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_2_lite_gray",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "LiteGray2LiteGray",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lite_gray_2_lite_gray",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "LiteGray2White",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lite_gray_2_white",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "White2Cyan",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_2_cyan",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "Cyan2Cyan",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_2_cyan",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "Cyan2White",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_2_white",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "White2LiteGreen",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_2_lite_green",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "LiteGreen2LiteGreen",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lite_green_2_lite_green",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "LiteGreen2White",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lite_green_2_white",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "White2LiteBlue",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_2_lite_blue",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "LiteBlue2LiteBlue",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lite_blue_2_lite_blue",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "LiteBlue2White",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lite_blue_2_white",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "White2Magenta",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_2_magenta",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "Magenta2Magenta",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_2_magenta",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "Magenta2White",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_2_white",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "White02White1",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_02_white_1",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "White12White0",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_12_white_0",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "White2Pink",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_2_pink",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "Pink2Pink",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_2_pink",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "Pink2White",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_2_white",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DBrown2DWhite",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_brown_2_d_white",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DWhite2DWhite",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_white_2_d_white",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DWhite2DBrown",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_white_2_d_brown",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DBrown2DBlack",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_brown_2_d_black",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DBlack2DBlack",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_black_2_d_black",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DBlack2DBrown",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_black_2_d_brown",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DBrown2DLiteBlack",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_brown_2_d_lite_black",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DLiteBlack2DLiteBlack",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_lite_black_2_d_lite_black",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DLiteBlack2DBrown",
+      "type": "recipe",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_lite_black_2_d_brown",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DBrown2DGreen",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_brown_2_d_green",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DGreen2DGreen",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_green_2_d_green",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DGreen2DBrown",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_green_2_d_brown",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DBrown2DCyan",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_brown_2_d_cyan",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DCyan2DCyan",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_cyan_2_d_cyan",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DCyan2DBrown",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_cyan_2_d_brown",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DBrown2DPink",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_brown_2_d_pink",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DPink2DPink",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_pink_2_d_pink",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DPink2DBrown",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_pink_2_d_brown",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DBrown2DLiteBlue",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_brown_2_d_lite_blue",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DLiteBlue2DLiteBlue",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_lite_blue_2_d_lite_blue",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DLiteBlue2DBrown",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_lite_blue_2_d_brown",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DBrown2DBlue",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_brown_2_d_blue",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DBlue2DBlue",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_blue_2_d_blue",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DBlue2DBrown",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_blue_2_d_brown",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DBrown2DRed",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_brown_2_d_red",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DRed2DRed",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_red_2_d_red",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DRed2DBrown",
+      "type": "recipe",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_red_2_d_brown",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DBrown2DPurple",
+      "type": "recipe",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_brown_2_d_purple",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DPurple2DPurple",
+      "type": "recipe",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_purple_2_d_purple",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DPurple2DBrown",
+      "type": "recipe",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_purple_2_d_brown",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DBrown2DGray",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_brown_2_d_gray",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DGray2DGray",
+      "type": "recipe",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_gray_2_d_gray",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DGray2DBrown",
+      "type": "recipe",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_gray_2_d_brown",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DDBrown2DBrown",
+      "type": "recipe",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dd_brown_2_d_brown",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DBrown2DBrown",
+      "type": "recipe",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_brown_2_d_brown",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DBrown2DDBrown",
+      "type": "recipe",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_brown_2_dd_brown",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DBrown2DLiteGray",
+      "type": "recipe",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_brown_2_d_lite_gray",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DLiteGray2DLiteGray",
+      "type": "recipe",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_lite_gray_2_d_lite_gray",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DLiteGray2DBrown",
+      "type": "recipe",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_lite_gray_2_d_brown",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DBrown2DYellow",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_brown_2_d_yellow",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DYellow2DYellow",
+      "type": "recipe",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_yellow_2_d_yellow",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DYellow2DBrown",
+      "type": "recipe",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_yellow_2_d_brown",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DBrown2DOrange",
+      "type": "recipe",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_brown_2_d_orange",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DOrange2DOrange",
+      "type": "recipe",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_orange_2_d_orange",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DOrange2DBrown",
+      "type": "recipe",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_orange_2_d_brown",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DBrown2DLiteGreen",
+      "type": "recipe",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_brown_2_d_lite_green",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DLiteGreen2DLiteGreen",
+      "type": "recipe",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_lite_green_2_d_lite_green",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DLiteGreen2DBrown",
+      "type": "recipe",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_lite_green_2_d_brown",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DBrown2DMagenta",
+      "type": "recipe",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_brown_2_d_magenta",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DMagenta2DMagenta",
+      "type": "recipe",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_magenta_2_d_magenta",
+      "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "DMagenta2DBrown",
+      "type": "recipe",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_magenta_2_d_brown",
+      "path": "~/Walls/Crafting"
     }
   ],
   "variable_elements": [],
@@ -718,11 +1748,11 @@
       "block.dcdecorations.cyan_brick_3": "Cyan Brick 3NoStripe",
       "block.dcdecorations.yellow_brick_3": "Yellow Brick 3NoStripe",
       "block.dcdecorations.light_black_brick_1": "Black Brick 1NoStripe",
-      "block.dcdecorations.black_brick_0": "Black Brick 0Stripe",
+      "block.dcdecorations.black_brick_0": "Dark Black Brick 0Stripe",
       "block.dcdecorations.light_black_brick_0": "Light Black Brick 0Stripe",
-      "block.dcdecorations.black_brick_3": "Black Brick 3NoStripe",
-      "block.dcdecorations.black_brick_1": "Black Brick 1NoStripe",
-      "block.dcdecorations.black_brick_2": "Black Brick 2Stripe",
+      "block.dcdecorations.black_brick_3": "Dark Black Brick 3NoStripe",
+      "block.dcdecorations.black_brick_1": "Dark Black Brick 1NoStripe",
+      "block.dcdecorations.black_brick_2": "Dark Black Brick 2Stripe",
       "block.dcdecorations.white_brick_3": "White Brick 3NoStripe",
       "block.dcdecorations.white_brick_2": "White Brick 2Stripe",
       "block.dcdecorations.white_brick_1": "White Brick 1NoStripe",
@@ -762,7 +1792,7 @@
       "block.dcdecorations.red_brick_3": "Red Brick 3NoStripe",
       "block.dcdecorations.light_gray_brick_0": "Light Gray Brick 0Stripe",
       "block.dcdecorations.light_blue_brick_3": "Light Blue Brick 3NoStripe",
-      "block.dcdecorations.light_blue_brick_0": "Black Brick 0Stripe",
+      "block.dcdecorations.light_blue_brick_0": "Light Blue Brick 0Stripe",
       "block.dcdecorations.light_blue_brick_2": "Light Blue Brick 2Stripe",
       "block.dcdecorations.light_blue_brick_1": "Light Blue Brick 1NoStripe"
     }
@@ -827,6 +1857,10 @@
             "children": []
           }
         ]
+      },
+      {
+        "name": "DyeCrafting",
+        "children": []
       }
     ]
   },

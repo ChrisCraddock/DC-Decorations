@@ -1,0 +1,13 @@
+{
+  "group": "black_walls_and_stripes",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dcdecorations:light_green_brick_2"
+    }
+  ],
+  "result": {
+    "item": "dcdecorations:light_green_brick_3",
+    "count": 1
+  }
+}

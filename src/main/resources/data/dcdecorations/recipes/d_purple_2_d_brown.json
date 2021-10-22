@@ -1,0 +1,13 @@
+{
+  "group": "black_walls_and_stripes",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dcdecorations:purple_brick_3"
+    }
+  ],
+  "result": {
+    "item": "dcdecorations:basic_brick_0",
+    "count": 1
+  }
+}
