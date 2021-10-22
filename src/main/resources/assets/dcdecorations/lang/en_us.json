@@ -26,6 +26,7 @@
   "block.dcdecorations.black_brick_0": "Dark Black Brick Stripe",
   "block.dcdecorations.light_black_brick_0": "Light Black Brick Stripe",
   "block.dcdecorations.black_brick_3": "Dark Dark Black Brick No Stripe",
+  "block.dcdecorations.server_bottom": "Server Bottom",
   "block.dcdecorations.black_brick_1": "Dark Black Brick No Stripe",
   "block.dcdecorations.black_brick_2": "Dark Dark Black Brick Stripe",
   "block.dcdecorations.white_brick_3": "Dark White Brick No Stripe",
@@ -72,5 +73,6 @@
   "block.dcdecorations.pdu_screen": "PDU Screen",
   "block.dcdecorations.light_blue_brick_0": "Light Blue Brick Stripe",
   "block.dcdecorations.light_blue_brick_2": "Dark Light Blue Brick Stripe",
-  "block.dcdecorations.light_blue_brick_1": "Light Blue Brick No Stripe"
+  "block.dcdecorations.light_blue_brick_1": "Light Blue Brick No Stripe",
+  "block.dcdecorations.server_top": "Server Top"
 }

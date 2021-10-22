@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dcdecorations:block/server_top"
+    },
+    "facing=east": {
+      "model": "dcdecorations:block/server_top",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dcdecorations:block/server_top",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dcdecorations:block/server_top",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "dcdecorations:block/server_top",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "dcdecorations:block/server_top",
+      "x": 90
+    }
+  }
+}
