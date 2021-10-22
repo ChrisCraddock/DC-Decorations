@@ -1,10 +1,771 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "BlueBrick0",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_brick_0",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "BlueBrick1",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_brick_1",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "BlueBrick2",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_brick_2",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "BlueBrick3",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_brick_3",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "BlackBrick0",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_brick_0",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "BlackBrick1",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_brick_1",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "RedBrick0",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_brick_0",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "RedBrick1",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_brick_1",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "RedBrick2",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_brick_2",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "RedBrick3",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_brick_3",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "GreenBrick0",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_brick_0",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "GreenBrick1",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_brick_1",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "GreenBrick2",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_brick_2",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "GreenBrick3",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_brick_3",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "BrownBrick0",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_brick_0",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "BrownBrick1",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_brick_1",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "BrownBrick2",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_brick_2",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "BrownBrick3",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_brick_3",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "PurpleBrick0",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_brick_0",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "PurpleBrick1",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_brick_1",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "PurpleBrick2",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_brick_2",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "PurpleBrick3",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_brick_3",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "CyanBrick0",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_brick_0",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "CyanBrick1",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_brick_1",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "CyanBrick2",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_brick_2",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "CyanBrick3",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_brick_3",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "LightGrayBrick0",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_brick_0",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "LightGrayBrick1",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_brick_1",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "LightGrayBrick2",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_brick_2",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "LightGrayBrick3",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_brick_3",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "GrayBrick0",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_brick_0",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "GrayBrick1",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_brick_1",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "GrayBrick2",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_brick_2",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "GrayBrick3",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_brick_3",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "PinkBrick0",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_brick_0",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "PinkBrick1",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_brick_1",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "PinkBrick2",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_brick_2",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "PinkBrick3",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_brick_3",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "LightGreenBrick0",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_green_brick_0",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "LightGreenBrick1",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_green_brick_1",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "LightGreenBrick2",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_green_brick_2",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "LightGreenBrick3",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_green_brick_3",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "YellowBrick0",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_brick_0",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "YellowBrick1",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_brick_1",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "YellowBrick2",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_brick_2",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "YellowBrick3",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_brick_3",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "LightBlueBrick0",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_brick_0",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "LightBlueBrick1",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_brick_1",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "LightBlueBrick2",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_brick_2",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "LightBlueBrick3",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_brick_3",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "MagentaBrick0",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_brick_0",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "MagentaBrick1",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_brick_1",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "MagentaBrick2",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_brick_2",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "MagentaBrick3",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_brick_3",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "OrangeBrick0",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_brick_0",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "OrangeBrick1",
+      "type": "block",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_brick_1",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "OrangeBrick2",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_brick_2",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "OrangeBrick3",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_brick_3",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "WhiteBrick0",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_brick_0",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "WhiteBrick1",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_brick_1",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "BasicBrick0",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basic_brick_0",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "LightBlackBrick0",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_black_brick_0",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "LightBlackBrick1",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_black_brick_1",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "LightBlackBrick2",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_black_brick_2",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "LightBlackBrick3",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_black_brick_3",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "BlackBrick2",
+      "type": "block",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_brick_2",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "WhiteBrick2",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_brick_2",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "WhiteBrick3",
+      "type": "block",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_brick_3",
+      "path": "~/Walls/Blocks"
+    },
+    {
+      "name": "BlackBrick3",
+      "type": "block",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_brick_3",
+      "path": "~/Walls/Blocks"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "block.dcdecorations.pink_brick_3": "Pink Brick 3NoStripe",
+      "block.dcdecorations.pink_brick_2": "Pink Brick 2Stripe",
+      "block.dcdecorations.pink_brick_1": "Pink Brick 1NoStripe",
+      "block.dcdecorations.pink_brick_0": "Pink Brick 0Stripe",
+      "block.dcdecorations.blue_brick_1": "Blue Brick 1NoStripe",
+      "block.dcdecorations.brown_brick_2": "Brown Brick 2Stripe",
+      "block.dcdecorations.cyan_brick_2": "Cyan Brick 2Stripe",
+      "block.dcdecorations.yellow_brick_0": "Yellow Brick 0Stripe",
+      "block.dcdecorations.blue_brick_0": "Blue Brick 0Stripe",
+      "block.dcdecorations.brown_brick_3": "Brown Brick 3NoStripe",
+      "block.dcdecorations.cyan_brick_1": "Cyan Brick 1NoStripe",
+      "block.dcdecorations.yellow_brick_1": "Yellow Brick Stripe",
+      "block.dcdecorations.blue_brick_3": "Blue Brick 3NoStripe",
+      "block.dcdecorations.cyan_brick_0": "Cyan Brick 0Stripe",
+      "block.dcdecorations.light_black_brick_3": "Light Black Brick 3NoStripe",
+      "block.dcdecorations.blue_brick_2": "Blue Brick 2Stripe",
+      "block.dcdecorations.light_black_brick_2": "Light Black Brick 2Stripe",
+      "block.dcdecorations.basic_brick_0": "Basic Brick",
+      "block.dcdecorations.yellow_brick_2": "Yellow Brick 2Stripe",
+      "block.dcdecorations.cyan_brick_3": "Cyan Brick 3NoStripe",
+      "block.dcdecorations.yellow_brick_3": "Yellow Brick 3NoStripe",
+      "block.dcdecorations.light_black_brick_1": "Black Brick 1NoStripe",
+      "block.dcdecorations.black_brick_0": "Black Brick 0Stripe",
+      "block.dcdecorations.light_black_brick_0": "Light Black Brick 0Stripe",
+      "block.dcdecorations.black_brick_3": "Black Brick 3NoStripe",
+      "block.dcdecorations.black_brick_1": "Black Brick 1NoStripe",
+      "block.dcdecorations.black_brick_2": "Black Brick 2Stripe",
+      "block.dcdecorations.white_brick_3": "White Brick 3NoStripe",
+      "block.dcdecorations.white_brick_2": "White Brick 2Stripe",
+      "block.dcdecorations.white_brick_1": "White Brick 1NoStripe",
+      "block.dcdecorations.white_brick_0": "White Brick",
+      "block.dcdecorations.green_brick_3": "Green Brick 3NoStripe",
+      "block.dcdecorations.green_brick_1": "Green Brick 1NoStripe",
+      "block.dcdecorations.light_green_brick_3": "Light Green Brick 3NoStripe",
+      "block.dcdecorations.green_brick_2": "Green Brick 2Stripe",
+      "block.dcdecorations.light_green_brick_2": "Light Green Brick 2Stripe",
+      "block.dcdecorations.light_green_brick_1": "Light Green Brick 1NoStripe",
+      "block.dcdecorations.green_brick_0": "Green Brick 0Stripe",
+      "block.dcdecorations.light_green_brick_0": "Light Green Brick 0Stripe",
+      "block.dcdecorations.gray_brick_1": "Gray Brick 1NoStripe",
+      "block.dcdecorations.gray_brick_2": "Gray Brick 2Stripe",
+      "block.dcdecorations.gray_brick_0": "Gray Brick 0Stripe",
+      "block.dcdecorations.gray_brick_3": "Gray Brick 3NoStripe",
+      "block.dcdecorations.magenta_brick_0": "Magenta Brick 0Stripe",
+      "block.dcdecorations.magenta_brick_2": "Magenta Brick 2Stripe",
+      "block.dcdecorations.magenta_brick_1": "Magenta Brick 1NoStripe",
+      "block.dcdecorations.orange_brick_3": "Black Brick 0Stripe",
+      "block.dcdecorations.magenta_brick_3": "Magenta Brick 3NoStripe",
+      "block.dcdecorations.orange_brick_2": "Orange Brick 2Stripe",
+      "block.dcdecorations.orange_brick_1": "Orange Brick 1NoStripe",
+      "block.dcdecorations.orange_brick_0": "Orange Brick 0Stripe",
+      "block.dcdecorations.purple_brick_3": "Black Brick 0Stripe",
+      "block.dcdecorations.purple_brick_2": "Purple Brick 2Stripe",
+      "block.dcdecorations.purple_brick_1": "Purple Brick 1NoStripe",
+      "block.dcdecorations.purple_brick_0": "Purple Brick 0Stripe",
+      "block.dcdecorations.brown_brick_0": "Brown Brick 0Stripe",
+      "block.dcdecorations.brown_brick_1": "Brown Brick 1NoStripe",
+      "block.dcdecorations.red_brick_2": "Red Brick 2Stripe",
+      "block.dcdecorations.light_gray_brick_3": "Light Gray Brick 3NoStripe",
+      "block.dcdecorations.red_brick_1": "Red Brick 1NoStripe",
+      "block.dcdecorations.light_gray_brick_2": "Light Gray Brick 2Stripe",
+      "block.dcdecorations.red_brick_0": "Red Brick 0Stripe",
+      "block.dcdecorations.light_gray_brick_1": "Light Gray Brick 1NoStripe",
+      "block.dcdecorations.red_brick_3": "Red Brick 3NoStripe",
+      "block.dcdecorations.light_gray_brick_0": "Light Gray Brick 0Stripe",
+      "block.dcdecorations.light_blue_brick_3": "Light Blue Brick 3NoStripe",
+      "block.dcdecorations.light_blue_brick_0": "Black Brick 0Stripe",
+      "block.dcdecorations.light_blue_brick_2": "Light Blue Brick 2Stripe",
+      "block.dcdecorations.light_blue_brick_1": "Light Blue Brick 1NoStripe"
+    }
   },
   "foldersRoot": {
     "name": "~",
@@ -33,15 +794,6 @@
       },
       {
         "name": "UPSPDU",
-        "children": [
-          {
-            "name": "Crafting",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Roof",
         "children": [
           {
             "name": "Crafting",

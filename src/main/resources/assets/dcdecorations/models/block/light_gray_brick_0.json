@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dcdecorations:blocks/dc_ceiling",
+    "up": "dcdecorations:blocks/dcroof",
+    "north": "dcdecorations:blocks/bricklightgray",
+    "east": "dcdecorations:blocks/bricklightgray",
+    "south": "dcdecorations:blocks/wlightgrayw",
+    "west": "dcdecorations:blocks/bricklightgray",
+    "particle": "dcdecorations:blocks/dc_ceiling"
+  }
+}
