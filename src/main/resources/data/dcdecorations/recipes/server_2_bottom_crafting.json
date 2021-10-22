@@ -1,0 +1,16 @@
+{
+  "group": "server2",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "dcdecorations:server_2_top"
+    }
+  },
+  "result": {
+    "item": "dcdecorations:server_2_bottom",
+    "count": 1
+  }
+}

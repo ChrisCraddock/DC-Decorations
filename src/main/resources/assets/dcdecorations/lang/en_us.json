@@ -26,7 +26,7 @@
   "block.dcdecorations.black_brick_0": "Dark Black Brick Stripe",
   "block.dcdecorations.light_black_brick_0": "Light Black Brick Stripe",
   "block.dcdecorations.black_brick_3": "Dark Dark Black Brick No Stripe",
-  "block.dcdecorations.server_bottom": "Server Bottom",
+  "block.dcdecorations.server_bottom": "Server1Bottom",
   "block.dcdecorations.black_brick_1": "Dark Black Brick No Stripe",
   "block.dcdecorations.black_brick_2": "Dark Dark Black Brick Stripe",
   "block.dcdecorations.white_brick_3": "Dark White Brick No Stripe",
@@ -60,6 +60,7 @@
   "block.dcdecorations.purple_brick_1": "Purple Brick No Stripe",
   "block.dcdecorations.purple_brick_0": "Purple Brick Stripe",
   "block.dcdecorations.brown_brick_0": "Brown Brick Stripe",
+  "block.dcdecorations.server_2_top": "Server 2 Top",
   "block.dcdecorations.brown_brick_1": "Brown Brick No Stripe",
   "block.dcdecorations.red_brick_2": "Dark Red Brick Stripe",
   "block.dcdecorations.light_gray_brick_3": "Dark Light Gray Brick No Stripe",
@@ -74,5 +75,6 @@
   "block.dcdecorations.light_blue_brick_0": "Light Blue Brick Stripe",
   "block.dcdecorations.light_blue_brick_2": "Dark Light Blue Brick Stripe",
   "block.dcdecorations.light_blue_brick_1": "Light Blue Brick No Stripe",
-  "block.dcdecorations.server_top": "Server Top"
+  "block.dcdecorations.server_2_bottom": "Server 2 Bottom",
+  "block.dcdecorations.server_top": "Server 1Top"
 }

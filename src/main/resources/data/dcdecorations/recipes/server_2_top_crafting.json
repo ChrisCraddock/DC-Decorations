@@ -1,0 +1,19 @@
+{
+  "group": "server2",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "dcdecorations:ups_panels"
+    },
+    "1": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "dcdecorations:server_2_top",
+    "count": 1
+  }
+}

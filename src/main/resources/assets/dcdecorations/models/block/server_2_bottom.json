@@ -3,9 +3,9 @@
   "textures": {
     "down": "dcdecorations:blocks/upspanels",
     "up": "dcdecorations:blocks/upspanels",
-    "north": "dcdecorations:blocks/server1fronttop",
+    "north": "dcdecorations:blocks/server2topbottom",
     "east": "dcdecorations:blocks/upspanels",
-    "south": "dcdecorations:blocks/server1backtop",
+    "south": "dcdecorations:blocks/server2bottomback",
     "west": "dcdecorations:blocks/upspanels",
     "particle": "dcdecorations:blocks/upspanels"
   }

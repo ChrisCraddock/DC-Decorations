@@ -1,0 +1,13 @@
+{
+  "group": "server1",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dcdecorations:server_top"
+    }
+  ],
+  "result": {
+    "item": "dcdecorations:server_bottom",
+    "count": 1
+  }
+}

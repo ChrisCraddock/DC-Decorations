@@ -5,9 +5,9 @@
     "texture": "upspanels",
     "textureTop": "upspanels",
     "textureLeft": "upspanels",
-    "textureFront": "rack2",
+    "textureFront": "server1frontbottom",
     "textureRight": "upspanels",
-    "textureBack": "rack2",
+    "textureBack": "server1backbottom",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 2,
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Server Bottom",
+    "name": "Server1Bottom",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
