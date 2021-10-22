@@ -1,0 +1,42 @@
+{
+  "group": "dcdecorations",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "item": "dcdecorations:ups_panels"
+    },
+    "2": {
+      "item": "dcdecorations:ups_panels"
+    },
+    "3": {
+      "item": "minecraft:iron_ingot"
+    },
+    "4": {
+      "item": "dcdecorations:ups_panels"
+    },
+    "5": {
+      "item": "dcdecorations:ups_panels"
+    },
+    "6": {
+      "item": "minecraft:iron_ingot"
+    },
+    "7": {
+      "item": "dcdecorations:ups_panels"
+    },
+    "8": {
+      "item": "dcdecorations:ups_panels"
+    }
+  },
+  "result": {
+    "item": "dcdecorations:dc_door",
+    "count": 1
+  }
+}

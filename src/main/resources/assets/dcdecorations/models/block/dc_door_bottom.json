@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "dcdecorations:blocks/doorbottom",
+    "top": "dcdecorations:blocks/doortop"
+  }
+}

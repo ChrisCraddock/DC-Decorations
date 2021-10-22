@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top",
+  "textures": {
+    "bottom": "dcdecorations:blocks/doorbottomreversed",
+    "top": "dcdecorations:blocks/doortopreversed"
+  }
+}

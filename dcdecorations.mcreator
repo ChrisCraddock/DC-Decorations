@@ -1900,6 +1900,85 @@
       "ids": {},
       "registry_name": "server_2_bottom_crafting",
       "path": "~/Servers/Crafting"
+    },
+    {
+      "name": "DCDoor",
+      "type": "block",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_door",
+      "path": "~/Doors"
+    },
+    {
+      "name": "DCDoorBlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_door_block_destroyed_by_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DCDoor2",
+      "type": "block",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_door_2",
+      "path": "~/Doors"
+    },
+    {
+      "name": "DCDoorCrafting",
+      "type": "recipe",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_door_crafting",
+      "path": "~/Doors/Crafting"
+    },
+    {
+      "name": "DCDoorReversedCrafting",
+      "type": "recipe",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_door_reversed_crafting",
+      "path": "~/Doors/Crafting"
+    },
+    {
+      "name": "DCDoorReverseReverseCrafting",
+      "type": "recipe",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_door_reverse_reverse_crafting",
+      "path": "~/Doors/Crafting"
     }
   ],
   "variable_elements": [],
@@ -1953,6 +2032,7 @@
       "block.dcdecorations.gray_brick_1": "Gray Brick No Stripe",
       "block.dcdecorations.gray_brick_2": "Dark Gray Brick Stripe",
       "block.dcdecorations.gray_brick_0": "Gray Brick Stripe",
+      "block.dcdecorations.dc_door": "DC Door",
       "block.dcdecorations.gray_brick_3": "Dark Gray Brick No Stripe",
       "block.dcdecorations.magenta_brick_0": "Magenta Brick Stripe",
       "block.dcdecorations.magenta_brick_2": "Dark Magenta Brick Stripe",
@@ -1977,6 +2057,7 @@
       "block.dcdecorations.light_gray_brick_1": "Light Gray Brick No Stripe",
       "block.dcdecorations.red_brick_3": "Dark Red Brick No Stripe",
       "block.dcdecorations.light_gray_brick_0": "Light Gray Brick Stripe",
+      "block.dcdecorations.dc_door_2": "DC Door 2",
       "block.dcdecorations.light_blue_brick_3": "Dark Light Blue Brick No Stripe",
       "block.dcdecorations.pdu_screen": "PDU Screen",
       "block.dcdecorations.light_blue_brick_0": "Light Blue Brick Stripe",
