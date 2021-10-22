@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Basic Brick",
+    "name": "Basic Brick All Sides",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
