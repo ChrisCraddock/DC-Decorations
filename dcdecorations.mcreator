@@ -2034,19 +2034,6 @@
         ]
       },
       {
-        "name": "Cage",
-        "children": [
-          {
-            "name": "Crafting",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "DyeCrafting",
-        "children": []
-      },
-      {
         "name": "Servers",
         "children": [
           {
