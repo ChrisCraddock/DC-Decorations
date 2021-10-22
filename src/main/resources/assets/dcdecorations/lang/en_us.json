@@ -1,4 +1,5 @@
 {
+  "block.dcdecorations.ups_vents": "UPS Vents",
   "block.dcdecorations.pink_brick_3": "Pink Brick No Stripe",
   "block.dcdecorations.pink_brick_2": "Dark Pink Brick Stripe",
   "block.dcdecorations.pink_brick_1": "Pink Brick No Stripe",
@@ -30,6 +31,7 @@
   "block.dcdecorations.white_brick_2": "Dark White Brick Stripe",
   "block.dcdecorations.white_brick_1": "White Brick No Stripe",
   "block.dcdecorations.white_brick_0": "White Brick All Sides",
+  "block.dcdecorations.ups_screen": "UPS Screen",
   "block.dcdecorations.green_brick_3": "Dark Green Brick No Stripe",
   "block.dcdecorations.green_brick_1": "Green Brick No Stripe",
   "block.dcdecorations.light_green_brick_3": "Dark Light Green Brick No Stripe",
@@ -38,6 +40,7 @@
   "block.dcdecorations.light_green_brick_1": "Light Green Brick No Stripe",
   "block.dcdecorations.green_brick_0": "Green Brick Stripe",
   "block.dcdecorations.light_green_brick_0": "Light Green Brick Stripe",
+  "block.dcdecorations.ups_panels": "UPS Panels",
   "block.dcdecorations.gray_brick_1": "Gray Brick No Stripe",
   "block.dcdecorations.gray_brick_2": "Dark Gray Brick Stripe",
   "block.dcdecorations.gray_brick_0": "Gray Brick Stripe",

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dcdecorations:block/ups_vents"
+    },
+    "facing=east": {
+      "model": "dcdecorations:block/ups_vents",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dcdecorations:block/ups_vents",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dcdecorations:block/ups_vents",
+      "y": 270
+    }
+  }
+}

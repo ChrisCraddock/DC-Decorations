@@ -1720,12 +1720,73 @@
       "ids": {},
       "registry_name": "d_magenta_2_d_brown",
       "path": "~/Walls/Crafting"
+    },
+    {
+      "name": "UPSScreen",
+      "type": "block",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ups_screen",
+      "path": "~/UPSPDU/PDUUPS"
+    },
+    {
+      "name": "UPSPanels",
+      "type": "block",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ups_panels",
+      "path": "~/UPSPDU/PDUUPS"
+    },
+    {
+      "name": "UPSVents",
+      "type": "block",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ups_vents",
+      "path": "~/UPSPDU/PDUUPS"
+    },
+    {
+      "name": "UPSScreenRecipe",
+      "type": "recipe",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ups_screen_recipe",
+      "path": "~/UPSPDU/Crafting"
+    },
+    {
+      "name": "UPSPanelRecipe",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ups_panel_recipe",
+      "path": "~/UPSPDU/Crafting"
+    },
+    {
+      "name": "UPSVentsRecipe",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ups_vents_recipe",
+      "path": "~/UPSPDU/Crafting"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.dcdecorations.ups_vents": "UPS Vents",
       "block.dcdecorations.pink_brick_3": "Pink Brick No Stripe",
       "block.dcdecorations.pink_brick_2": "Dark Pink Brick Stripe",
       "block.dcdecorations.pink_brick_1": "Pink Brick No Stripe",
@@ -1757,6 +1818,7 @@
       "block.dcdecorations.white_brick_2": "Dark White Brick Stripe",
       "block.dcdecorations.white_brick_1": "White Brick No Stripe",
       "block.dcdecorations.white_brick_0": "White Brick All Sides",
+      "block.dcdecorations.ups_screen": "UPS Screen",
       "block.dcdecorations.green_brick_3": "Dark Green Brick No Stripe",
       "block.dcdecorations.green_brick_1": "Green Brick No Stripe",
       "block.dcdecorations.light_green_brick_3": "Dark Light Green Brick No Stripe",
@@ -1765,6 +1827,7 @@
       "block.dcdecorations.light_green_brick_1": "Light Green Brick No Stripe",
       "block.dcdecorations.green_brick_0": "Green Brick Stripe",
       "block.dcdecorations.light_green_brick_0": "Light Green Brick Stripe",
+      "block.dcdecorations.ups_panels": "UPS Panels",
       "block.dcdecorations.gray_brick_1": "Gray Brick No Stripe",
       "block.dcdecorations.gray_brick_2": "Dark Gray Brick Stripe",
       "block.dcdecorations.gray_brick_0": "Gray Brick Stripe",
@@ -1827,6 +1890,10 @@
         "children": [
           {
             "name": "Crafting",
+            "children": []
+          },
+          {
+            "name": "PDUUPS",
             "children": []
           }
         ]

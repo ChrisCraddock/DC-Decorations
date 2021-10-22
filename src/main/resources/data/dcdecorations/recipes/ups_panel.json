@@ -1,0 +1,16 @@
+{
+  "group": "dcdecorations",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:black_dye"
+    },
+    {
+      "item": "minecraft:stone"
+    }
+  ],
+  "result": {
+    "item": "dcdecorations:ups_panels",
+    "count": 8
+  }
+}

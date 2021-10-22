@@ -1,0 +1,16 @@
+{
+  "group": "dcdecorations",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:green_dye"
+    },
+    {
+      "item": "dcdecorations:ups_panels"
+    }
+  ],
+  "result": {
+    "item": "dcdecorations:ups_screen",
+    "count": 1
+  }
+}
