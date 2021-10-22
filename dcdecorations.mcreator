@@ -1902,16 +1902,6 @@
       "path": "~/Servers/Crafting"
     },
     {
-      "name": "DCDoor",
-      "type": "block",
-      "sortid": 196,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dc_door",
-      "path": "~/Doors"
-    },
-    {
       "name": "DCDoorBlockDestroyedByPlayer",
       "type": "procedure",
       "sortid": 196,
@@ -1958,26 +1948,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dc_door_crafting",
-      "path": "~/Doors/Crafting"
-    },
-    {
-      "name": "DCDoorReversedCrafting",
-      "type": "recipe",
-      "sortid": 199,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dc_door_reversed_crafting",
-      "path": "~/Doors/Crafting"
-    },
-    {
-      "name": "DCDoorReverseReverseCrafting",
-      "type": "recipe",
-      "sortid": 200,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dc_door_reverse_reverse_crafting",
       "path": "~/Doors/Crafting"
     }
   ],
@@ -2032,7 +2002,6 @@
       "block.dcdecorations.gray_brick_1": "Gray Brick No Stripe",
       "block.dcdecorations.gray_brick_2": "Dark Gray Brick Stripe",
       "block.dcdecorations.gray_brick_0": "Gray Brick Stripe",
-      "block.dcdecorations.dc_door": "DC Door",
       "block.dcdecorations.gray_brick_3": "Dark Gray Brick No Stripe",
       "block.dcdecorations.magenta_brick_0": "Magenta Brick Stripe",
       "block.dcdecorations.magenta_brick_2": "Dark Magenta Brick Stripe",

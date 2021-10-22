@@ -10,7 +10,10 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Items.IRON_INGOT"
+        "value": "CUSTOM:UPSPanels"
+      },
+      {
+        "value": "CUSTOM:UPSPanels"
       },
       {
         "value": "CUSTOM:UPSPanels"
@@ -19,16 +22,13 @@
         "value": "CUSTOM:UPSPanels"
       },
       {
-        "value": "Items.IRON_INGOT"
+        "value": "Blocks.IRON_DOOR"
       },
       {
         "value": "CUSTOM:UPSPanels"
       },
       {
         "value": "CUSTOM:UPSPanels"
-      },
-      {
-        "value": "Items.IRON_INGOT"
       },
       {
         "value": "CUSTOM:UPSPanels"
@@ -38,7 +38,7 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:DCDoor"
+      "value": "CUSTOM:DCDoor2"
     },
     "name": "dc_door_crafting",
     "namespace": "mod"

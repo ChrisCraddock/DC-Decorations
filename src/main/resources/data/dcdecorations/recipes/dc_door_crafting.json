@@ -8,7 +8,7 @@
   ],
   "key": {
     "0": {
-      "item": "minecraft:iron_ingot"
+      "item": "dcdecorations:ups_panels"
     },
     "1": {
       "item": "dcdecorations:ups_panels"
@@ -17,16 +17,16 @@
       "item": "dcdecorations:ups_panels"
     },
     "3": {
-      "item": "minecraft:iron_ingot"
+      "item": "dcdecorations:ups_panels"
     },
     "4": {
-      "item": "dcdecorations:ups_panels"
+      "item": "minecraft:iron_door"
     },
     "5": {
       "item": "dcdecorations:ups_panels"
     },
     "6": {
-      "item": "minecraft:iron_ingot"
+      "item": "dcdecorations:ups_panels"
     },
     "7": {
       "item": "dcdecorations:ups_panels"
@@ -36,7 +36,7 @@
     }
   },
   "result": {
-    "item": "dcdecorations:dc_door",
+    "item": "dcdecorations:dc_door_2",
     "count": 1
   }
 }

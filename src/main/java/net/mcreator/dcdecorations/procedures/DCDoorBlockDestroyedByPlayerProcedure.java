@@ -5,7 +5,7 @@ import net.minecraft.world.IWorld;
 import net.minecraft.item.ItemStack;
 import net.minecraft.entity.item.ItemEntity;
 
-import net.mcreator.dcdecorations.block.DCDoorBlock;
+import net.mcreator.dcdecorations.block.DCDoor2Block;
 import net.mcreator.dcdecorations.DcdecorationsMod;
 
 import java.util.Map;
@@ -37,7 +37,7 @@ public class DCDoorBlockDestroyedByPlayerProcedure {
 		double z = dependencies.get("z") instanceof Integer ? (int) dependencies.get("z") : (double) dependencies.get("z");
 		IWorld world = (IWorld) dependencies.get("world");
 		if (world instanceof World && !world.isRemote()) {
-			ItemEntity entityToSpawn = new ItemEntity((World) world, x, y, z, new ItemStack(DCDoorBlock.block));
+			ItemEntity entityToSpawn = new ItemEntity((World) world, x, y, z, new ItemStack(DCDoor2Block.block));
 			entityToSpawn.setPickupDelay((int) 1);
 			entityToSpawn.setNoDespawn();
 			world.addEntity(entityToSpawn);
