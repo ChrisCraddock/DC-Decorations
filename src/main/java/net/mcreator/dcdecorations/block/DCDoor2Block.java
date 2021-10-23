@@ -11,7 +11,6 @@ import net.minecraft.state.properties.DoubleBlockHalf;
 import net.minecraft.state.properties.BlockStateProperties;
 import net.minecraft.loot.LootContext;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.item.BlockItem;
 import net.minecraft.fluid.FluidState;
@@ -24,6 +23,7 @@ import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
 import net.mcreator.dcdecorations.procedures.DCDoorBlockDestroyedByPlayerProcedure;
+import net.mcreator.dcdecorations.itemgroup.DCDecorationsItemGroup;
 import net.mcreator.dcdecorations.DcdecorationsModElements;
 
 import java.util.Map;
@@ -42,7 +42,8 @@ public class DCDoor2Block extends DcdecorationsModElements.ModElement {
 	@Override
 	public void initElements() {
 		elements.blocks.add(() -> new CustomBlock());
-		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(ItemGroup.DECORATIONS)).setRegistryName(block.getRegistryName()));
+		elements.items
+				.add(() -> new BlockItem(block, new Item.Properties().group(DCDecorationsItemGroup.tab)).setRegistryName(block.getRegistryName()));
 	}
 	public static class CustomBlock extends DoorBlock {
 		public CustomBlock() {

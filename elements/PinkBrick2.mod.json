@@ -39,7 +39,7 @@
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "DECORATIONS"
+      "value": "CUSTOM:DCBlack"
     },
     "destroyTool": "Not specified",
     "customDrop": {

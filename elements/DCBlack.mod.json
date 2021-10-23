@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "DC Black",
+    "icon": {
+      "value": "CUSTOM:BasicBrick0"
+    },
+    "showSearch": true
+  }
+}

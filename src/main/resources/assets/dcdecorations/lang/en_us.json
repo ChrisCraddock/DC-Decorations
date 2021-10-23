@@ -1,5 +1,7 @@
 {
+  "itemGroup.tabdc_black": "DC Black",
   "block.dcdecorations.ups_vents": "UPS Vents",
+  "itemGroup.tabdc_white": "DC White",
   "block.dcdecorations.pink_brick_3": "Pink Brick No Stripe",
   "block.dcdecorations.pink_brick_2": "Dark Pink Brick Stripe",
   "block.dcdecorations.pink_brick_1": "Pink Brick No Stripe",
@@ -53,6 +55,7 @@
   "block.dcdecorations.orange_brick_3": "Dark Orange Brick No Stripe",
   "block.dcdecorations.magenta_brick_3": "Dark Magenta Brick No Stripe",
   "block.dcdecorations.orange_brick_2": "Dark Orange Brick Stripe",
+  "itemGroup.tabdc_decorations": "DC Decorations",
   "block.dcdecorations.orange_brick_1": "Orange Brick No Stripe",
   "block.dcdecorations.orange_brick_0": "Orange Brick Stripe",
   "block.dcdecorations.purple_brick_3": "Dark Black Brick Stripe",

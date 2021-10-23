@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "DC Decorations",
+    "icon": {
+      "value": "CUSTOM:Server2Top"
+    },
+    "showSearch": true
+  }
+}
