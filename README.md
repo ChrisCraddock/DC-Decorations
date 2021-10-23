@@ -22,7 +22,7 @@ This small decorations modpack was created for those who just want to either hav
 ## Lifecycle
 This pack was mainly meant to get me brainstorming for an original pack I was working on to integrate with ComputerCraft/ComputerCraftEdu or OpenComputers.
 While I cannot *promise* that I will be regularly updating the pack with more and more DC themed items, I will add documentation of all the objects I used so
-you can tweek things to your needs.  This is meant to be rather lightweight so it can be used with other packs and not be resource intensive. 
+you can tweak things to your needs.  This is meant to be rather lightweight so it can be used with other packs and not be resource intensive. 
 
 ## Getting Started
 
@@ -48,4 +48,4 @@ The 1st block in the group will contain a stripe. If you want the solid colored 
 
 ### Copyright
 
-This mod (compiled plugin, compiled patch to Minecraft source, henceforth "Mod" or "The Mod"), by the terms of http://minecraft.net/terms is the sole property of the Mod author (FuzzyButt, Fuzzy, Fuzzybuttgaming, henceforth "Owner" or "The Owner"). By default it may only be distributed on its own from [My GitHub](https://github.com/ChrisCraddock/DC-Decorations). It may not be distributed on its own from any other source unless given explicit permission. It may be included in any modpack with other mods, as long as it does not attempt to make money off The Owner's Mods. URL shorteners or other attempts to make money off The Owner's Mods are strictly forbidden without advance written permission. Attempts to modify the Mod so that it can be claimed as 'technically' your own, or distribute modified versions are Strictly Prohibited, reguardless of the modifications in question.
+This mod (compiled plugin, compiled patch to Minecraft source, henceforth "Mod" or "The Mod"), by the terms of http://minecraft.net/terms is the sole property of the Mod author (FuzzyButt, Fuzzy, Fuzzybuttgaming, henceforth "Owner" or "The Owner"). By default it may only be distributed on its own from [My GitHub](https://github.com/ChrisCraddock/DC-Decorations) or the MCreator website here: . It may not be distributed on its own from any other source unless given explicit permission. It may be included in any modpack with other mods, as long as it does not attempt to make money off The Owner's Mods. URL shorteners or other attempts to make money off The Owner's Mods are strictly forbidden without advance written permission. Attempts to modify the Mod so that it can be claimed as 'technically' your own, or distribute modified versions are Strictly Prohibited, reguardless of the modifications in question.
