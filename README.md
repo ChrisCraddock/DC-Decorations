@@ -34,9 +34,6 @@ you can tweak things to your needs.  This is meant to be rather lightweight so i
 
 From here on, when crafting the color that you want, just use the dye of the color wanted along with either the White brick (for white walls or white walls and a stripe) or the Brown brick (for black walls or black walls and a stripe).  With the exception of 2 sets from each, the White group will have white mortar, and the Brown group will have black mortar.
 
-# Brick Crafting Order Clarification
-The 1st block in the group will contain a stripe. If you want the solid colored wall, just put it back into the crafting grid and you will get the solid version in the output. To get back to the solid white brick you started with initially after crafting, put the colored block back into the grid and you are back to a clean slate. NOTE: This is also an easy way to duplicate blocks as you get x16 bricks originally and then x8 dyed blocks per 1x dye + 1x brick.  However, This is not meant to be difficult and since it is only decorations, the majority of your time will be spent on other things and that is OK. The ONLY block that will not revert back is the basic white -> white brick w/ white walls. Think of it as a trade off for making duplications easy.
-
 
 * ![BrickDisplay1](/Display/display1.jpg)
 * ![BrickDisplay2](/Display/display2.png)
