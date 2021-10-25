@@ -2,6 +2,7 @@
 package net.mcreator.dcdecorations.block;
 
 import net.minecraftforge.registries.ObjectHolder;
+import net.minecraftforge.common.ToolType;
 
 import net.minecraft.world.IBlockReader;
 import net.minecraft.util.math.BlockPos;
@@ -44,7 +45,8 @@ public class Server2TopBlock extends DcdecorationsModElements.ModElement {
 	public static class CustomBlock extends Block {
 		public static final DirectionProperty FACING = DirectionalBlock.FACING;
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 15));
+			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 15).harvestLevel(1)
+					.harvestTool(ToolType.PICKAXE).setRequiresTool());
 			this.setDefaultState(this.stateContainer.getBaseState().with(FACING, Direction.NORTH));
 			setRegistryName("server_2_top");
 		}
