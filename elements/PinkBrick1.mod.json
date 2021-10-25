@@ -7,7 +7,7 @@
     "textureLeft": "brickpink",
     "textureFront": "brickpink",
     "textureRight": "brickpink",
-    "textureBack": "dc_wall_white",
+    "textureBack": "wpinkw",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 2,
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Pink Brick No Stripe",
+    "name": "Pink Brick Stripe",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -41,7 +41,7 @@
     "creativeTab": {
       "value": "CUSTOM:DCWhite"
     },
-    "destroyTool": "Not specified",
+    "destroyTool": "pickaxe",
     "customDrop": {
       "value": ""
     },
@@ -50,7 +50,7 @@
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
     "canRedstoneConnect": false,
-    "lightOpacity": 0,
+    "lightOpacity": 15,
     "material": {
       "value": "ROCK"
     },

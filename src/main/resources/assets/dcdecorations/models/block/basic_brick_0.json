@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "dcdecorations:blocks/brickplain",
+    "down": "dcdecorations:blocks/dc_ceiling",
     "up": "dcdecorations:blocks/dcroof",
     "north": "dcdecorations:blocks/brickplain",
     "east": "dcdecorations:blocks/brickplain",
     "south": "dcdecorations:blocks/brickplain",
     "west": "dcdecorations:blocks/brickplain",
-    "particle": "dcdecorations:blocks/brickplain"
+    "particle": "dcdecorations:blocks/dc_ceiling"
   }
 }

@@ -5,7 +5,7 @@
     "up": "dcdecorations:blocks/dcroof",
     "north": "dcdecorations:blocks/brickred",
     "east": "dcdecorations:blocks/brickred",
-    "south": "dcdecorations:blocks/wredw",
+    "south": "dcdecorations:blocks/dc_wall_white",
     "west": "dcdecorations:blocks/brickred",
     "particle": "dcdecorations:blocks/dc_ceiling"
   }

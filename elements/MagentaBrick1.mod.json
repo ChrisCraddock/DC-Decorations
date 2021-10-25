@@ -7,7 +7,7 @@
     "textureLeft": "brickmagenta",
     "textureFront": "brickmagenta",
     "textureRight": "brickmagenta",
-    "textureBack": "dc_wall_white",
+    "textureBack": "wmagentaw",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 2,
@@ -32,16 +32,16 @@
         "subtract": false
       }
     ],
-    "name": "Magenta Brick No Stripe",
+    "name": "Magenta Brick Stripe",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "DECORATIONS"
+      "value": "CUSTOM:DCWhite"
     },
-    "destroyTool": "Not specified",
+    "destroyTool": "pickaxe",
     "customDrop": {
       "value": ""
     },
@@ -50,7 +50,7 @@
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
     "canRedstoneConnect": false,
-    "lightOpacity": 0,
+    "lightOpacity": 15,
     "material": {
       "value": "ROCK"
     },

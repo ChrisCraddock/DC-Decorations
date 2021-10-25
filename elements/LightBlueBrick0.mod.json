@@ -7,7 +7,7 @@
     "textureLeft": "bricklightblue",
     "textureFront": "bricklightblue",
     "textureRight": "bricklightblue",
-    "textureBack": "wlightbluew",
+    "textureBack": "dc_wall_white",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 2,
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Light Blue Brick Stripe",
+    "name": "Light Blue Brick No Stripe",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -41,7 +41,7 @@
     "creativeTab": {
       "value": "CUSTOM:DCWhite"
     },
-    "destroyTool": "Not specified",
+    "destroyTool": "pickaxe",
     "customDrop": {
       "value": ""
     },
@@ -50,7 +50,7 @@
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
     "canRedstoneConnect": false,
-    "lightOpacity": 0,
+    "lightOpacity": 15,
     "material": {
       "value": "ROCK"
     },

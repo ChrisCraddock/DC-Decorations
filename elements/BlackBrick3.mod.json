@@ -7,7 +7,7 @@
     "textureLeft": "brickblack",
     "textureFront": "brickblack",
     "textureRight": "brickblack",
-    "textureBack": "dc_wall_black",
+    "textureBack": "bblackb",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 2,
@@ -41,7 +41,7 @@
     "creativeTab": {
       "value": "CUSTOM:DCBlack"
     },
-    "destroyTool": "Not specified",
+    "destroyTool": "pickaxe",
     "customDrop": {
       "value": ""
     },
@@ -50,7 +50,7 @@
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
     "canRedstoneConnect": false,
-    "lightOpacity": 0,
+    "lightOpacity": 15,
     "material": {
       "value": "ROCK"
     },
